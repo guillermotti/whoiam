@@ -23,8 +23,8 @@ export class AppComponent {
 
   // Icons
   rrss = [
-    { icon: faLinkedin, url: 'https://www.linkedin.com/in/guillermotti/' },
-    { icon: faInstagram, url: 'https://www.instagram.com/guillermotti/' },
+    { icon: faLinkedin, url: 'https://www.linkedin.com/in/guillermotti' },
+    { icon: faInstagram, url: 'https://www.instagram.com/guillermotti' },
     { icon: faTwitter, url: 'https://twitter.com/GuillermoVigil' },
     { icon: faFacebook, url: 'https://www.facebook.com/guillermotti' },
     { icon: faGithub, url: 'https://www.facebook.com/guillermotti' },
