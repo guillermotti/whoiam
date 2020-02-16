@@ -15,20 +15,20 @@ import {
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  name = 'Emily Wazowski';
-  job = 'Search Engineer';
-  description = 'Emily has been working with Empathy since 2017 and she is a lovely developer interested in animals and extreme sports. Ask her about any issue you face and she will solve the problem just in minutes.';
-  smallImage = 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80';
-  bigImage = 'https://images.unsplash.com/photo-1569012871812-f38ee64cd54c';
+  name = 'Guillermo Vigil Rodríguez';
+  job = 'DevOps Engineer';
+  description = 'Deploy, develop, run.';
+  smallImage = 'assets/img/small-profile.jpg';
+  bigImage = 'assets/img/big-profile.png';
 
   // Icons
   rrss = [
-    { icon: faLinkedin, url: 'https://www.linkedin.com/in/emily-wazowski' },
-    { icon: faInstagram, url: 'https://www.instagram.com/emily-wazowski' },
-    { icon: faTwitter, url: 'https://twitter.com/emily-wazowski' },
-    { icon: faFacebook, url: 'https://www.facebook.com/emily-wazowski' },
-    { icon: faGithub, url: 'https://github.com/emily-wazowski' },
-    { icon: faSpotify, url: 'https://open.spotify.com/user/emily-wazowski' }
+    { icon: faLinkedin, url: 'https://www.linkedin.com/in/guillermotti/' },
+    { icon: faInstagram, url: 'https://www.instagram.com/guillermotti/' },
+    { icon: faTwitter, url: 'https://twitter.com/GuillermoVigil' },
+    { icon: faFacebook, url: 'https://www.facebook.com/guillermotti' },
+    { icon: faGithub, url: 'https://www.facebook.com/guillermotti' },
+    { icon: faSpotify, url: 'https://open.spotify.com/user/212losfkqce46ku5l66leqazy' }
   ]
 
   navigateTo(url: string) {
