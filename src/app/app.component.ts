@@ -16,7 +16,7 @@ import {
 })
 export class AppComponent {
   name = 'Guillermo Vigil Rodríguez';
-  job = 'DevOps Engineer';
+  job = 'Platform Engineer';
   description = 'Deploy, develop, run.';
   smallImage = 'assets/img/small-profile.jpg';
   bigImage = 'assets/img/big-profile.png';
